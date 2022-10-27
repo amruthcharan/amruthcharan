@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Automation and Devops
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me at amruthcharank@gmail.com / https://wa.me/918331951950
+- 📫 Can reachable at amruthcharank@gmail.com / https://wa.me/918331951950
 
 <!---
 amruthcharan/amruthcharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
